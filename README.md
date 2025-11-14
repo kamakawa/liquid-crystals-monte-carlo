@@ -33,8 +33,8 @@ Esta IC tem como objetivo aprofundar os conhecimentos em **física computacional
 ## 📁 Estrutura do Repositório
 
 ```bash
-├── fisica.c              # Primeira versão da simulação (modelo Ising em C)
-├── ising_simulador.c     # Simulação com visualização interativa usando Raylib
+├── fisica.c              # Primeira versão da simulação, visualização pelo terminal
+├── ising_simulador.c     # Simulação com visualização interativa usando Raylib, precisa do makefile
 ├── README.md             # Este documento
 
 
